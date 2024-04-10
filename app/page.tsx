@@ -1,4 +1,3 @@
-import Settings from "@/components/ui/Settings";
 import WebCam from "@/components/ui/WebCam";
 type Props = {};
 

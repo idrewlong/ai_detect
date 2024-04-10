@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "AI Tracker",
   description:
-    "Built with Next JS, ShadCN, React-Webcam, React-Loader-Spinner, ",
+    "Built with Next JS, ShadCN, React-Webcam, React-Loader-Spinner, FontAwesome, and Tensorflow",
 };
 
 export default function RootLayout({
